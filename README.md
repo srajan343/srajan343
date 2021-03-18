@@ -9,7 +9,9 @@
 - 🌱 I’m currently learning c++ and python
 - 💬 Ask me about anything and I will be available.
 - ⚡ Fun fact: about me:
-- 1) I like to eat pani puri/goolgappe.
-- 2) I like to play table tennis.
-- 3) My favourite color is black.
+-
+- 1) I like to play table tennis.
+- 2) My favourite color is black.
+
+you can reach me by my email - srajansethiya123@gmail.com
 
