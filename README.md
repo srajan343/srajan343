@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working to develop my skills in stock market
-- 🌱 I’m currently learning c++ and python
+- 🌱 I’m currently learning java and python
 - 💬 Ask me about anything and I will be available.
 - ⚡ Fun fact: about me:
 -
