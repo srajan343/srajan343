@@ -5,8 +5,8 @@
 
 
 
-- 🔭 I’m currently working to develop my skills in stock market
-- 🌱 I’m currently learning java and python
+- 🔭 I’m currently working to develop my skills on dsa and projects
+- 🌱 I’m currently learning different approaches in dynamic programming.
 - 💬 Ask me about anything and I will be available.
 - ⚡ Fun fact: about me:
 -
