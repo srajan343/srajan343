@@ -13,5 +13,5 @@
 - 1) I like to play chess.
 - 2) My favourite color is black.
 
-you can reach me by my email - srajansethiya123@gmail.com
+you can reach me by my email - srajan.sethiya2020@vitbhopal.ac.in
 
