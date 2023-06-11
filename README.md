@@ -10,7 +10,7 @@
 - 💬 Ask me about anything and I will be available.
 - ⚡ Fun fact: about me:
 -
-- 1) I like to play table tennis.
+- 1) I like to play chess.
 - 2) My favourite color is black.
 
 you can reach me by my email - srajansethiya123@gmail.com
